@@ -3,3 +3,5 @@ Allow: /
 
 User-agent: ia_archiver
 Disallow: /
+
+Sitemap: https://personal.ilsevalle.com/sitemap.xml
